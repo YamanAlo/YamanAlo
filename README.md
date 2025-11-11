@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h3><samp>Hi 👋! I'm Yaman Alomar</samp></h3>
-  <h4><samp>Full-Stack AI Engineer | Machine Learning Engineer</samp></h4>
+  <h2><samp>Hi 👋! I'm Yaman Alomar</samp></h3>
+  <h3><samp>Full-Stack AI Engineer | Machine Learning Engineer</samp></h4>
 
   <samp>
     Building: 
